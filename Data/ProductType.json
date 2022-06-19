@@ -1,0 +1,12 @@
+[
+    {
+        "productTypeId": "fc7979d8-6305-4f14-1cac-08da51cae8bf",
+        "Name": "Mobil",
+        "Description": "Mobiltelefon"
+    },
+    {
+        "productTypeId": "1065194d-532d-4149-40ae-08da51dc2954",
+        "Name": "PC",
+        "Description": "Datamaskin"
+    }
+]

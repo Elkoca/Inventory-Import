@@ -1,0 +1,60 @@
+[
+    {
+        "productId": "a07d72e2-45b6-4434-078f-08da51cb5e0c",
+        "name": "Lenovo s20",
+        "title": "Lenovo s20",
+        "description": "En kraftig liten maskin, Docking stasjon inkludert",
+        "stock": 2,
+        "articleNo": 12345678,
+        "price": {
+            "code": "NOK",
+            "amount": 159999.99
+        },
+        "vendorId": "bb59d42b-044c-429a-85d6-08da51ca6d81",
+        "productTypeId": "1065194d-532d-4149-40ae-08da51dc2954" 
+    },
+    {
+        "productId": "935da694-9f24-4f9b-9757-08da51cbb87c",
+        "name": "Apple Iphone 13 256Gb Svart",
+        "title": "Apple Iphone 13 256Gb Svart, Lader ikke inkludert",
+        "description": "Apples siste iphone, med 256 GB lagringsplass",
+        "stock": 8,
+        "articleNo": 12345678,
+        "price": {
+            "code": "NOK",
+            "amount": 15000
+        },
+        "vendorId": "bb59d42b-044c-429a-85d6-08da51ca6d81",
+        "productTypeId": "fc7979d8-6305-4f14-1cac-08da51cae8bf" 
+    },
+    {
+        "productId": "1ecc6c31-ff0c-4bc3-cd31-08da515a2435",
+        "name": "Samsung Galaxy S5",
+        "title": "Samsung Galaxy S5",
+        "description": "Kom best ut i test",
+        "stock": 1,
+        "articleNo": 11111111,
+        "price": {
+            "code": "NOK",
+            "amount": 499.99
+        },
+        "vendorId": "db296ae6-21c2-4c9e-7108-08da51dc28e8",
+        "productTypeId": "fc7979d8-6305-4f14-1cac-08da51cae8bf" 
+    },
+    {
+        "productId": "6b9be52b-312a-4236-b4ae-b858306a1536",
+        "name": "Samsung Galaxy S3",
+        "title": "Samsung Galaxy S3",
+        "description": "Solid telefon",
+        "stock": 0,
+        "articleNo": 11111111,
+        "price": {
+            "code": "NOK",
+            "amount": 2000
+        },
+        "vendorId": "db296ae6-21c2-4c9e-7108-08da51dc28e8",
+        "productTypeId": "fc7979d8-6305-4f14-1cac-08da51cae8bf" 
+        
+    }
+
+]
